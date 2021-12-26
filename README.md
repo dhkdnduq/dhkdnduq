@@ -10,6 +10,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a>&nbsp 
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&Libtorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/%20-%20LibTorch-black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/%20-%20TensorRT-green"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/%20-%20OpenVino-blue"/></a>&nbsp 
 </p>
 
 #### Tools
