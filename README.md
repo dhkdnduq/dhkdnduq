@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=black"/>
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Hdevelop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/%20-%20HDevelop-gray"/></a>&nbsp 
 </p>
