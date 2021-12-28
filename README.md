@@ -27,6 +27,6 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=black"/>
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%20-%20HDevelop-gray"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/%20-%20mlflow-blueviolet"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HDevelop-gray"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mlflow-blueviolet"/></a>&nbsp 
 </p>
