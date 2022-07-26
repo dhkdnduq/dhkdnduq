@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&Libtorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/%20-%20LibTorch-black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/%20-%20TensorRT-green"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/%20-%20OpenVino-blue"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/%20-%20OpenVino-blue"/></a>&nbsp
+  <img src="https://img.shields.io/badge/WinRT-blue"/></a>&nbsp 
 </p>
 
 #### Tools
@@ -28,5 +29,4 @@
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HDevelop-gray"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/WinRT-blue"/></a>&nbsp 
 </p>
