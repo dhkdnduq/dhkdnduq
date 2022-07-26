@@ -28,4 +28,5 @@
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/HDevelop-gray"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/WinRT-blue"/></a>&nbsp 
 </p>
